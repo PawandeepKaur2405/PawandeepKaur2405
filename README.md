@@ -1,8 +1,10 @@
-Hi, I'm Pawandeep
-- 👋 Hi, I’m @PawandeepKaur2405
-- 👀 I’m interested in learning new technologies and tring out new and amazing stuffs
-- 🌱 I’m currently learning Android Development using Java
-- 💬 Ask me about We can talk about any Technological Stuff but I am centered in Android Studio and languages like C++, C and Java 
+# Hi, I'm Pawandeep 😀
+
+A B.Tech student with majors in CSE. 
+
+- 🌱 I’m currently learning **Android** **Development** using Java
+- 👀 I’m interested in learning **new** **technologies** and tring out new and amazing stuffs
+- 💬 Ask me about We can talk about any Technological Stuff but I am centered in **Android** **Studio** and languages like **C++** , **C** and **Java** 
 - 📫 How to reach me sgurminder982@gmail.com
 
 <!---
