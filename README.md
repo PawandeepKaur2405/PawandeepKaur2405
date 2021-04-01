@@ -1,6 +1,6 @@
 # Hi, I'm Pawandeep 😀
 
-**A B.Tech student with majors in CSE.**
+##**A B.Tech student with majors in CSE.**
 
 - 🌱 I’m currently learning **Android** **Development** using Java
 - 👀 I’m interested in learning **new** **technologies** and tring out new and amazing stuffs
