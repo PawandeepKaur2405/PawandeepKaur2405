@@ -38,6 +38,10 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PawandeepKaur2405)
 
 #
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PawandeepKaur2405&theme=dark)](https://git.io/streak-stats)
+
+#
 ### 📌 Pinned :
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PawandeepKaur2405&repo=Sorting_Algorithms)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PawandeepKaur2405&repo=Criminal_Intent)
