@@ -16,19 +16,19 @@
 #
 ### LANGUAGES :
   
-<img align="left" img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" height = "100" width = "100"/>  
-<img align="left" img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" height = "100" width = "100"/>
-<img align="left" img src="https://i.postimg.cc/zvCsF8d5/java-logo-640.jpg" height = "100" width = "100"/>
-<img align="left" img src="https://i.postimg.cc/sf5Cr438/Yr-pWI4G.jpg" height = "100" width = "100"/>     
+<img align="left" img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" height = "50" width = "50"/>  
+<img align="left" img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" height = "50" width = "50"/>
+<img align="left" img src="https://i.postimg.cc/zvCsF8d5/java-logo-640.jpg" height = "50" width = "50"/>
+<img align="left" img src="https://i.postimg.cc/sf5Cr438/Yr-pWI4G.jpg" height = "50" width = "50"/>     
 
 <br> </br>
 <br> </br>
 #
 ### 🛠 TOOLS :
-<img align="left" img src="https://i.postimg.cc/GpnFTDB4/download.png" height = "100" width = "100"/>
-<img align="left" img src="https://i.postimg.cc/02LmhS0V/download.jpg" height = "100" width = "100"/>
-<img align="left" img src="https://i.postimg.cc/sXDZ543g/download-2.png" height = "100" width = "100"/>
-<img align="left" img src="https://i.postimg.cc/QdG9f3jP/download-1.png" height = "100" width = "100"/>
+<img align="left" img src="https://i.postimg.cc/GpnFTDB4/download.png" height = "50" width = "50"/>
+<img align="left" img src="https://i.postimg.cc/02LmhS0V/download.jpg" height = "50" width = "50"/>
+<img align="left" img src="https://i.postimg.cc/sXDZ543g/download-2.png" height = "50" width = "50"/>
+<img align="left" img src="https://i.postimg.cc/QdG9f3jP/download-1.png" height = "50" width = "50"/>
 
 <br> </br>
 <br> </br>
