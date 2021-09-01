@@ -49,10 +49,10 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PawandeepKaur2405&repo=Snappy_Firebase)
 
 #
-### 📈My contribution Graph :
+<!-- ### 📈My contribution Graph :
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PawandeepKaur2405&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+ -->
 
 
 <!---
